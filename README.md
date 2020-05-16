@@ -1,4 +1,4 @@
-#Ruby on Rails - Example
+# Ruby_on_Rails - Example
 
 find first 10 related recipes from API
 
