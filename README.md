@@ -1,24 +1,6 @@
-# README
+# Ruby-on-Rails Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Web App -- https://find-my-recipes.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+With API - This website uses http://www.recipepuppy.com/api to get data about recipes. User can search for the recipe he/she is interested in using 'search' parametre. 
+example - https://find-my-recipes.herokuapp.com/?search=brownie
