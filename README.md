@@ -1,4 +1,4 @@
-# Ruby-on-Rails Example
+# Ruby-On-Rails Example
 
 Web App -- https://find-my-recipes.herokuapp.com/
 
